@@ -91,17 +91,16 @@ This design aims to capture both local motifs and broader contextual dependencie
 genomic-sequence-framework/
 ├── README.md
 ├── requirements.txt
+├── environment.yml
 ├── setup.py
 ├── configs/
 ├── data/
-├── docs/
-│   └── figures/
+├── artifacts/
 ├── reports/
 ├── results/
 ├── runs/
 ├── scripts/
-├── src/
-└── tests/
+└── src/
 ```
 
 ### Important folders
@@ -111,7 +110,7 @@ genomic-sequence-framework/
 - **`data/`**: raw and processed data directories
 - **`results/`**: generated outputs during runs
 - **`runs/`**: final archived experiment outputs
-- **`docs/figures/`**: figures used in README, paper, or slides
+- **`artifacts/figures/`**: figures used in README, paper
 
 ---
 
