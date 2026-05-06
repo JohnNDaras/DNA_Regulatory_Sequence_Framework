@@ -47,10 +47,9 @@ The repository is organized so that:
 
 ## System Architecture
 
-Add the system architecture image below.
 
 <p align="center">
-  <img src="docs/figures/system_architecture.png" alt="System architecture" width="900">
+  <img width="2200" height="900" alt="Image" src="https://github.com/user-attachments/assets/d1b538aa-797e-434b-b9c9-0c755303c2c2" />
 </p>
 
 <p align="center">
