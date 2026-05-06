@@ -119,10 +119,10 @@ genomic-sequence-framework/
 The repository expects the following raw files in `data/raw/`:
 
 
-data/raw/hg19.pickle [link](https://drive.google.com/file/d/1OyL0_IQti-KWwjUmQj_UJioef4d5HuJf/view?usp=drive_link)
-data/raw/ENCFF300IYQ.bed.gz
-data/raw/ATAC_data.bed.gz
-data/raw/ATAC_test_regions.bed.gz
+- data/raw/hg19.pickle    [link](https://drive.google.com/file/d/1OyL0_IQti-KWwjUmQj_UJioef4d5HuJf/view?usp=drive_link)
+- data/raw/ENCFF300IYQ.bed.gz   [link](https://drive.google.com/file/d/1GD1475EHsVynJfWySgXXYMyi0xZBn9i3/view?usp=drive_link)
+- data/raw/ATAC_data.bed.gz   [link](https://drive.google.com/file/d/1VdxGP5KKo-5X3XnR-WPZNE339qzZ1P7t/view?usp=drive_link)
+- data/raw/ATAC_test_regions.bed.gz    [link](https://drive.google.com/file/d/1LnuIt0umEYxgv4K4ZoNYQfl8Iuy3NeCR/view?usp=drive_link)
 
 
 ### Data pipeline
