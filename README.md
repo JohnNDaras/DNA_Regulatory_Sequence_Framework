@@ -119,7 +119,7 @@ genomic-sequence-framework/
 The repository expects the following raw files in `data/raw/`:
 
 ```text
-data/raw/hg19.pickle ([link](https://drive.google.com/file/d/1OyL0_IQti-KWwjUmQj_UJioef4d5HuJf/view?usp=drive_link))
+data/raw/hg19.pickle [link](https://drive.google.com/file/d/1OyL0_IQti-KWwjUmQj_UJioef4d5HuJf/view?usp=drive_link)
 data/raw/ENCFF300IYQ.bed.gz
 data/raw/ATAC_data.bed.gz
 data/raw/ATAC_test_regions.bed.gz
