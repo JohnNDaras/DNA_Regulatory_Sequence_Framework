@@ -74,10 +74,10 @@ This design aims to capture both local motifs and broader contextual dependencie
 
 ## Experimental Summary Figure
 
-Add the 9-panel experimental figure below.
+
 
 <p align="center">
-  <img src="docs/figures/experimental_summary_9graphs.png" alt="Experimental summary" width="950">
+  <img width="1680" height="1230" alt="Image" src="https://github.com/user-attachments/assets/9f8c4782-fa93-483d-a2be-17e7724f1be5" />
 </p>
 
 <p align="center">
