@@ -259,6 +259,12 @@ Generated experiment outputs are written to `results/`:
 
 ---
 
+## Hardware
+
+Experiments were run with GPU acceleration. A CUDA-capable GPU is recommended for reproducing the full training runs. Some full comparisons may take many hours depending on the available GPU.
+
+---
+
 ## References
 
 The project is informed by prior work including:
